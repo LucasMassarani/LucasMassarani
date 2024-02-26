@@ -1,25 +1,14 @@
-### Aoba 👋
-### Me chamo Carlos Eduardo Lacerda Silva
+### Bom dia/Boa tarde/Boa noite 👋
+### Me chamo Lucas Massarani Botêga
 
 - 📖 Atualmente cursando Engenharia da Computação na Universidade de Sorocaba (UNISO)
-- 🎵 A todo momento ouvindo uma boa música
-- ⚡ Como hobbies tenho: tocar piano/teclado 🎹, jogar com a galera 🕹️, assitir filmes/séries 🍿 e resolver puzzles/cubos mágicos 🎲
-- 💻 Constantemente à procura de novos desafios e novas oportunidades
-
+- 💻 Constantemente à procura de novas oportunidades
 <div align="center">
   <a href="https://github.com/LucasMassarani/LucasMassarani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMassarani&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMassarani&layout=compact&theme=yeblu&hide=jupyter%20notebook"/>
 </div>
-
 <br>
-
-<div align="center">
-  <p> # Stats do perfil perdido </p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMassarani&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMassarani&layout=compact&theme=yeblu&hide=jupyter%20notebook"/>
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
